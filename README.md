@@ -854,15 +854,3 @@ ORDER BY
 
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-## Data Storytelling Insights Presentation for Stakeholders
